@@ -205,4 +205,4 @@ Azure Arc does not use the system level proxy settings to download packages list
     /opt/azcmagent/bin/azcmagent_executable "$@"
     ```
 
-Ensure that the command located [here](https://learn.microsoft.com/en-us/azure/azure-arc/servers/manage-agent#linux-environment-variables) has been executed successfully prior to the MDE.Linux extension is installed. 
+Ensure that the command located [here](/azure/azure-arc/servers/manage-agent#linux-environment-variables) has been executed successfully prior to the MDE.Linux extension is installed. 
